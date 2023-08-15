@@ -6,12 +6,12 @@
   "keywords": ["telegram", "bot"],
   "env": {
     "BOT_API": {
-      "description": "@BotFather'dan oluşturduğunuz botun tokeni.",
+      "description": "6474954457:AAEh7497Hrk1vmP3GfHOEm2b0Ew-NT9dKNQ",
       "value": ""
     },
     "URL": {
       "description": "Yukarıda app-name yerine yazdığınız adı yourappname ile değiştirin.",
-      "value": "https://yourappname.herokuapp.com/"
+      "value": "https://metikbot.herokuapp.com/"
     },
     "PORT": {
       "description": "Bu kalabilir. (İsteğe bağlı)",
